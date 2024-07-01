@@ -1,0 +1,28 @@
+.head{
+    background-color: aquamarine;
+    
+}
+.h{
+    text-decoration: none;
+}
+.r{
+    text-decoration: none;
+}
+.h:hover{
+    width: 500px;
+    height: 500px;
+    color: red;
+    text-decoration-line: underline;
+}
+.r:hover{
+    width: 500px;
+    height: 500px;
+    color: red;
+    text-decoration-line: underline;
+}
+.l{
+    float: right;
+}
+.l1{
+    float: left;
+}
